@@ -1,14 +1,15 @@
 # tcgswap
-Trabajo de fin de grado para el ciclo superior de Desarrollo de Aplicaciones Web para I.E.S. Ágora.
+Trabajo de fin de grado para el ciclo superior de Desarrollo de Aplicaciones Web para I.E.S. Ágora (curso 2022/2023).
 
 ## Uso del producto
 Para poder desplegar el proyecto en local será necesario instalar XAMPP, ya que será necesario 
 interpretar PHP y añadir la base de datos incluida en el paquete [tcgswap.sql](https://github.com/daesbudev/tcgswap/blob/main/tcgswap.sql).
 Una vez instalado XAMPP, debemos dirigirnos a la ruta donde se haya instalado y situarnos 
 en la carpeta **htdocs**. Una vez ahí, clonamos el repositorio e importamos la base de datos
-en phpMyAdmin.
+en phpMyAdmin. <br>
 Con esto la aplicación está lista para ser utilizada. dentro de la tabla usuarios podremos
 encontrar usuarios preparados para iniciar sesión, la contraseña es 12345 para todos ellos.
+
 
 ## ¿Qué es tcgswap?
 Este proyecto surge a partir de una de mis aficiones, que es el juego **Magic: The
