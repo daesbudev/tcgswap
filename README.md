@@ -8,7 +8,8 @@ Una vez instalado XAMPP, debemos dirigirnos a la ruta donde se haya instalado y 
 en la carpeta **htdocs**. Una vez ahí, clonamos el repositorio e importamos la base de datos
 en phpMyAdmin. <br>
 Con esto la aplicación está lista para ser utilizada. dentro de la tabla usuarios podremos
-encontrar usuarios preparados para iniciar sesión, la contraseña es 12345 para todos ellos.
+encontrar usuarios preparados para iniciar sesión, la contraseña es 12345 para todos ellos. <br>
+También se incluye en el paquete la memoria realizada para el proyecto [aquí](https://github.com/daesbudev/tcgswap/blob/main/2W_Estévez_Bueso_Dario.pdf).
 
 
 ## ¿Qué es tcgswap?
